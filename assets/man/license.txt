@@ -1,0 +1,11 @@
+Model Information:
+* title:	War Machine Endgame (Textured) (Rigged)
+* source:	https://sketchfab.com/3d-models/war-machine-endgame-textured-rigged-3fd76b10171b4715aaa0311ab4fb9e37
+* author:	CAPTAAINR (https://sketchfab.com/CAPTAAINR)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "War Machine Endgame (Textured) (Rigged)" (https://sketchfab.com/3d-models/war-machine-endgame-textured-rigged-3fd76b10171b4715aaa0311ab4fb9e37) by CAPTAAINR (https://sketchfab.com/CAPTAAINR) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
