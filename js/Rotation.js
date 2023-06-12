@@ -1,5 +1,5 @@
 //Diver rotation component
-AFRAME.registerComponent("diver-rotation-reader", {
+AFRAME.registerComponent("man", {
   schema: {
     speedOfRoation: { type: "number", default: 0 },
     speedOfMovement: { type: "number", default: 0 }
