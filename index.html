@@ -28,8 +28,8 @@
         <a-asset-item id="turtle" src="assets/turtle/scene.gltf"></a-asset-item>
         <a-asset-item id="trout" src="assets/trout/scene.gltf"></a-asset-item>
         <a-asset-item
-          id="man"
-          src="assets/man/scene.gltf"
+        id="diver"
+        src="./assets/models/man/scene.gltf"
         ></a-asset-item>
       </a-a-assets>
 
@@ -89,19 +89,8 @@
       </a-sky>
 
       <!--Scuba Driver-->
-      <a-entity
-        gltf-model="#man"
-        scale="0.1 0.1 0.1"
-        position="5 0 10"
-        rotation="0 90 -20"
-        body="type: dynamic; mass: 0; shape: none;"
-        shape="shape: cylinder;
-          height: 100;
-          radiusTop: 20;
-          radiusBottom: 20;
-          offset:50 100 -50"
-        diver-rotation-reader
-      >
+ <a-entity id="diver" gltf-model="#diver" position="0 0 15" scale="4 4 " rotation=" 50 180 0" man></a-entity>
+      
         <a-sphere
           id="bubble1"
           position="52.9829 119.97737 -49.38121"
@@ -179,3 +168,4 @@
     </a-scene>
   </body>
 </html>
+
